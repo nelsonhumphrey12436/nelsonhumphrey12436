@@ -18,16 +18,16 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
     
-<h2>Certifications:</h2>   
+<h2>📜Certifications:</h2>   
 
 - [practical help desk]()
 - [Google cybersecurity]()
 - [Diploma in cybersecurity]()
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>🔭 currently working on</h2>
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- Home lab project 
+- TryHackme Penetration tester path
   
 
 <h2> 🤳 Connect with me:</h2>
