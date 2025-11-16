@@ -20,9 +20,9 @@
     
 <h2>📜Certifications:</h2>   
 
-- [practical help desk]()
+- [practical help desk](https://github.com/nelsonhumphrey12436/certificates.git)
 - [Google cybersecurity]()
-- [Diploma in cybersecurity]()
+- [Diploma in cybersecurity](https://github.com/nelsonhumphrey12436/certificates.git)
 
 <h2>🔭 currently working on</h2>
 
